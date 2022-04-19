@@ -1,0 +1,59 @@
+#corpo{
+	margin: 0px;
+	padding: 0;
+	background-image: url(imagens/BG.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 200px;
+	padding: 20px;
+}
+h1{
+	padding: 0;
+font-size: 1.3em;
+	font-family: 'minhafonte';
+	}
+@font-face{
+	font-family: minhafonte;
+		src: url(./fonts/Umafonte.ttf);
+	}
+ol{
+		font-size: 0.7em;
+	font-family: 'minhafonte';
+	font-weight: 100;
+	}
+@font-face{
+	font-family: minhafonte;
+		src: url(./fonts/Umafonte.ttf);
+
+
+	}
+html{
+	border-color: black;
+	border-style: solid;
+	box-sizing: border-box;
+	font-size: 0.7em;
+	font-family: 'minhafonte';
+	}
+@font-face{
+	font-family: minhafonte;
+		src: url(./fonts/Umafonte.ttf);
+}
+#insta{
+list-style-image: url(imagens/Insta.png)
+
+}
+#tw{
+	list-style-image: url(imagens/tw.png);
+}
+#yt{
+	list-style-image: url(imagens/Youtube.png);
+}
+.links:link{
+	text-decoration: none;
+	color: black;
+}
+.links:hover{
+	color: gray;
+}
+body{
+	background-color: black;
+}
