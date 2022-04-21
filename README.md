@@ -2,7 +2,7 @@ Site: https://claudiolombardoso.github.io/Projeto-Cartao-de-Visitas/
 
 # Cartão de Visitas 📔
 - Um Exercicio sugerido pelo Curso Full Stack de Desenvolvimento web do [ProgramadorBR](https://programadorbr.com)!
-#Objetivo do Exercicio:
+# Objetivo do Exercicio:
 - Criar um cartão de visitas simples, com 3 endereços de contato.
 # Técnologias utilizadas:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
